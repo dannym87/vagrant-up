@@ -1,0 +1,10 @@
+{
+  "generator-reveal": {
+    "presentationTitle": "Vagrant",
+    "packageVersion": "1.0.0",
+    "useSass": true,
+    "deployToGithubPages": true,
+    "githubUsername": "dannym87",
+    "githubRepository": "vagrant-up"
+  }
+}
