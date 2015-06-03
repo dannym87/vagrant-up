@@ -1,3 +1,20 @@
 [
-    "intro.html"
+    "intro.html",
+    "overview.html",
+    "background.html",
+    "what-is-vagrant.html",
+    "wtf-does-that-mean.html",
+    "vm-providers.html",
+    "vagrantfile.html",
+    "why-use-vagrant.html",
+    "workflow.html",
+    "plugins.html",
+    "who-uses-vagrant.html",
+    "resources.html",
+    {
+      "filename": "thanks.html",
+      "attr": {
+        "data-background": "assets/img/cat.jpg"
+      }
+    }
 ]
