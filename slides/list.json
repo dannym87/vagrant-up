@@ -14,7 +14,7 @@
     {
       "filename": "thanks.html",
       "attr": {
-        "data-background": "resources/img/cat.jpg"
+        "data-background": "assets/img/cat.jpg"
       }
     }
 ]
