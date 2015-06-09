@@ -10,11 +10,13 @@
     "workflow.html",
     "plugins.html",
     "who-uses-vagrant.html",
+    "phpstorm-integration.html",
+    "oh-my-zsh-integration.html",
     "resources.html",
     {
-      "filename": "thanks.html",
-      "attr": {
-        "data-background": "assets/img/cat.jpg"
-      }
+        "filename": "thanks.html",
+        "attr": {
+            "data-background": "assets/img/cat.jpg"
+        }
     }
 ]
